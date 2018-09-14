@@ -1,6 +1,6 @@
 addCollaborators:
-  newCollaboratorMessage: "This message will appear when someone opens a new issue, and is not already a collaborator."
-  existingCollaboratorMessage: "This message appears when someone is already a collaborator and they open a new issue."
+  newCollaboratorMessage: "¡Hola! Soy el :robot: asistente de este repositorio. \n\n Me alegro de verte por aquí :wave:. Supongo que sabes lo que estás haciendo, así que voy a añadirte como usuario colaborador. Esto te dará permisos para hacer commits en este repositorio."
+  existingCollaboratorMessage: ""
 remindMerge:
   merged: "This message appears after Pull Request is merged."
   unmerged: "This message appears after Pull Request is closed without merging."
