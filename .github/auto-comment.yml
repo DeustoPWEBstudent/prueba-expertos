@@ -1,4 +1,12 @@
 pullRequestOpened: >
-  Thank your for raising your pull request.
+  :thumbsup: Acabas de iniciar un pull request para integrar los cambios que has ido realizando en tu repositorio personal. 
 
-  Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+  Recuerda asignar los metadatos correctamente:
+
+  - En Reviewers, selecciona a la persona encargada de Control durante esta unidad
+  - En Asignees, indica quiénes necesitas que intervengan en la conversación (puedes incluir también a la profesora humana, @mberasategi, si tenéis dudas)
+  - En Milestones, asigna este pull request al borrador correspondiente (Estrategia, Alcance, Estructura, Esqueleto, Superficie).
+
+  Ahora podéis realizar los comentarios necesarios sobre estas modificaciones aquí debajo, y tú puedes seguir realizando cambios al branch de tu copia personal. Cuando la persona encargada de Control considere que esta aportación está como para integrar en el borrador, puede dar el OK al review, y entonces la persona encargada de la Coordinación podrá hacer merge e integrar las modificaciones en el repositorio central.
+
+  Como siempre, si tenéis dudas, mencionad a @mberasategi.
